@@ -19,8 +19,3 @@ tqdm>=4.66.0
 matplotlib>=3.7.0
 jupyter>=1.0.0
 ipython>=8.10.0
-
-# Development Tools (optional)
-black>=23.0.0
-flake8>=6.0.0
-pytest>=7.4.0

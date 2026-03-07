@@ -48,6 +48,12 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 pip install -r requirements.txt
 ```
 
+**For Development (optional):**
+```bash
+pip install -r requirements-dev.txt
+```
+This installs additional tools: `nbstripout` (strips Jupyter metadata), `black` (code formatter), `flake8` (linter), and `pytest` (testing framework).
+
 ### Step 4: Verify GPU Access
 
 **For macOS:**
